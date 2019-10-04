@@ -1,0 +1,13 @@
+Step 1:
+
+cd to the Test folder
+
+Step 2:
+
+sh prepare_client1.sh
+
+or 
+
+sh prepare_client2.sh
+
+it will populate new folders with merged code as main_application_for_client_1 or main_application_for_client_2
